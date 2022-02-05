@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Drawing Task</string>
+    <string name="SELECT">Please select tool to draw.</string>
+</resources>
